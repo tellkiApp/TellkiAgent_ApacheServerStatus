@@ -1,0 +1,18 @@
+{
+	"author": "guberni",
+	"name": "tellki-apache-server-status-monitor",
+	"description": "Tellki Apache Server Status monitor",
+	"version": "0.0.1",
+	"keywords": ["tellki", "monitor", "apache", "server", "status", "real time"],
+	"homepage": "www.tellki.com",
+	"repository" : { 
+		"type" : "git", "url" : "https://github.com/tellkiApp/tellkiAgent_ApacheServerStatus.git"  
+	},
+	"main": "./lib/apache_server_status_monitor",
+	"bin": {
+		"tellki-dns-monitor": "./bin/tellki-apache-server-status-monitor"
+	},
+	"engines": {
+		"node": "*"
+	}
+}
