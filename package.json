@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-apache-server-status-monitor",
 	"description": "Tellki Apache Server Status monitor",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"keywords": ["tellki", "monitor", "apache", "server", "status", "real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
